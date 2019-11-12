@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	color: #03395B;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 100px;
+}
+
+para{
+	color:#000000;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+}
+ul{
+	color: #000000;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+}
